@@ -28,7 +28,7 @@ Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**
 
 ---
 
-## 🚀 Mi Arsenal Tecnológico
+## 🚀 HABILIDADES TÉCNICAS
 
 <div align="center">
 
