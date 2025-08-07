@@ -77,7 +77,7 @@ Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**
   <img src="https://raw.githubusercontent.com/EliasTorresEzpinoza/EliasTorresEzpinoza/main/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </div>
 
-*Para generar esta animación, necesitarás seguir unos pasos adicionales descritos más abajo.*
+
 
 ---
 
