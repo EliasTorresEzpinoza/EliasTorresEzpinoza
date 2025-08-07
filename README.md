@@ -49,23 +49,23 @@ Soy un estudiante del último ciclo de **Ingiería de Software** en la **UPC**, 
     <td width="50%">
       <h3 align="center">MoviGestion - Gestión de Flotas IoT</h3>
       <div align="center">
-        <a href="URL_DEL_REPOSITORIO_MOVIGESTION" target="_blank">
+        <a href="https://github.com/upc-Soluciones-IOT-BicasTeam" target="_blank">
           <img src="https://raw.githubusercontent.com/EliasTorresEzpinoza/Landing-Page-MoviGestion/main/assets/images/logo.png" width="100" alt="Logo MoviGestion">
         </a>
         <p>Plataforma integral (Web, Móvil, IoT) para la gestión y monitoreo en tiempo real de flotas de transporte. Lideré el desarrollo del sistema Edge/Embedded y contribuí en el backend, frontend y despliegue en Azure.</p>
         <p><strong>Tecnologías: Java, Spring Boot, Angular, Flutter, Azure, IoT.</strong></p>
-        <a href="URL_DEL_REPOSITORIO_MOVIGESTION" target="_blank"><strong>Ver Repositorio »</strong></a>
+        <a href="https://github.com/upc-Soluciones-IOT-BicasTeam" target="_blank"><strong>Ver Repositorio »</strong></a>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">BlockLearn - Trazabilidad con Blockchain</h3>
       <div align="center">
-        <a href="URL_DEL_REPOSITORIO_BLOCKLEARN" target="_blank">
+        <a href="https://github.com/upc-BlockLearn-Emergentes-BicasTeam" target="_blank">
           <img src="https://raw.githubusercontent.com/upc-BlockLearn-Emergentes-BicasTeam/upc-blocklearn-appweb/main/src/assets/logo.png" width="100" alt="Logo BlockLearn">
         </a>
         <p>Sistema de gestión académica que utiliza Blockchain para garantizar la seguridad y trazabilidad de recursos educativos. Fui responsable del desarrollo end-to-end (backend, frontend y despliegue).</p>
         <p><strong>Tecnologías: C#, ASP.NET, Angular, Blockchain, Azure, DDD.</strong></p>
-        <a href="URL_DEL_REPOSITORIO_BLOCKLEARN" target="_blank"><strong>Ver Repositorio »</strong></a>
+        <a href="https://github.com/upc-BlockLearn-Emergentes-BicasTeam" target="_blank"><strong>Ver Repositorio »</strong></a>
       </div>
     </td>
   </tr>
