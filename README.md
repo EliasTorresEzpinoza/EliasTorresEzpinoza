@@ -1,5 +1,5 @@
 <!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,10&height=250&section=header&text=El%C3%ADas%20Torres%20Espinoza&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Cloud%20Developer&descAlignY=55&descAlign=center&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,10&height=250&section=header&text=Elias%20Torres%20Espinoza&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenieria%20de%20Software%20-%20Backend%20%26%20Cloud%20Developer&descAlignY=55&descAlign=center&descSize=20" />
 
 <!-- SVG con texto que se escribe solo -->
 <div align="center">
