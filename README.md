@@ -4,7 +4,7 @@
 <!-- SVG con texto que se escribe solo -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%C2%A1Bienvenido+a+mi+espacio+digital!+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Apasionado+por+el+Backend%2C+Cloud+y+Blockchain;Construyendo+soluciones+escalables+con+Java+y+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%C2%A1Bienvenido+a+mi+espacio+digital!+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Apasionado+por+soluciones+escalables+con+Angular+Flutter+y+Spring Boot" alt="Typing SVG" />
   </a>
 </div>
 
