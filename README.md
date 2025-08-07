@@ -20,7 +20,7 @@
 
 ## 🎯 Acerca de Mí
 
-Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**, enfocado en construir soluciones tecnológicas robustas que resuelvan problemas complejos. Mi principal pasión es el **desarrollo backend** y la **arquitectura de soluciones en la nube**, pero disfruto trabajando en todo el stack tecnológico para llevar las ideas a la realidad.
+Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**, enfocado en construir soluciones tecnológicas robustas que resuelvan problemas complejos. Mi principal pasión es el **desarrollo de aplicaciones moviles y web** y la **arquitectura de soluciones en la nube**, pero disfruto trabajando en todo el stack tecnológico para llevar las ideas a la realidad.
 
 - 🔭 Actualmente buscando mi primera oportunidad de **prácticas pre-profesionales** para aplicar y expandir mis habilidades.
 - 🌱 Siempre aprendiendo sobre **arquitecturas de microservicios, patrones de diseño y DevOps**.
