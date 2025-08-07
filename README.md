@@ -51,8 +51,8 @@ Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**
 
 | 🚀 Proyecto | 🛠️ Stack Tecnológico | 📝 Descripción | 🔗 Enlaces |
 |:---:|:---:|:---:|:---:|
-| **MoviGestion** | [![Skills](https://skillicons.dev/icons?i=java,spring,angular,flutter,azure,postgres,iot&perline=4)](https://skillicons.dev) | Plataforma integral para la gestión de flotas de transporte usando **IoT**. Lideré el desarrollo del sistema **Edge/Embedded** y participé activamente en el backend, frontend y despliegue en **Azure**. | [![Repo](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upc-Soluciones-IOT-BicasTeam/upc-iot-BicasTeam-report) [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://upc-soluciones-iot-bicasteam.github.io/upc-AppWeb-BicasTeam-LandingPage.github.io/) |
-| **BlockLearn** | [![Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,azure,mysql,postman&perline=3)](https://skillicons.dev) | Sistema de gestión académica con trazabilidad **Blockchain**. Fui responsable del desarrollo **end-to-end**: backend con DDD, frontend SPA y despliegue completo en **Azure**. | [![Repo](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upc-BlockLearn-Emergentes-BicasTeam/upc-blocklearn-appweb) |
+| **MoviGestion** | [![Skills](https://skillicons.dev/icons?i=java,spring,angular,flutter,azure,postgres,iot&perline=4)](https://skillicons.dev) | Plataforma integral para la gestión de flotas de transporte usando **IoT**. Lideré el desarrollo del sistema **Edge/Embedded** y participé activamente en el backend, frontend y despliegue en **Azure**. | [![Repo](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upc-Soluciones-IOT-BicasTeam) [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://upc-soluciones-iot-bicasteam.github.io/upc-AppWeb-BicasTeam-LandingPage.github.io/) |
+| **BlockLearn** | [![Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,azure,mysql,postman&perline=3)](https://skillicons.dev) | Sistema de gestión académica con trazabilidad **Blockchain**. Fui responsable del desarrollo **end-to-end**: backend con DDD, frontend SPA y despliegue completo en **Azure**. | [![Repo](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upc-BlockLearn-Emergentes-BicasTeam) |
 
 </div>
 
@@ -74,10 +74,8 @@ Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**
 ## 📈 Mi Actividad de Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EliasTorresEzpinoza/EliasTorresEzpinoza/main/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+  <img src="https://raw.githubusercontent.com/EliasTorresEzpinoza/EliasTorresEzpinoza/main/dist/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </div>
-
-
 
 ---
 
