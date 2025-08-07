@@ -4,7 +4,7 @@
 <!-- SVG con texto que se escribe solo -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+espacio+digital;Estudiante+de+Ingenieria+de+Software+en+la+UPC;Apasionado+por+el+Backend,+Cloud+y+Blockchain;Construyendo+soluciones+escalables+con+Java+y+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%C2%A1Bienvenido+a+mi+Portafolio!+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Desarrollador+Web,+M%C3%B3vil+y+Backend+API;Construyendo+soluciones+con+IoT+y+despliegues+en+Azure" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 🎯 Acerca de Mí
 
-Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**, enfocado en construir soluciones tecnológicas robustas que resuelvan problemas complejos. Mi principal pasión es el **desarrollo de aplicaciones moviles y web** y la **arquitectura de soluciones en la nube**, pero disfruto trabajando en todo el stack tecnológico para llevar las ideas a la realidad.
+Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**, enfocado en construir soluciones tecnológicas robustas que resuelvan problemas complejos. Mi principal pasión es el **desarrollo de aplicaciones moviles/web** y la **arquitectura de soluciones en la nube**, pero disfruto trabajando en todo el stack tecnológico para llevar las ideas a la realidad.
 
 - 🔭 Actualmente buscando mi primera oportunidad de **prácticas pre-profesionales** para aplicar y expandir mis habilidades.
 - 🌱 Siempre aprendiendo sobre **arquitecturas de microservicios, patrones de diseño y DevOps**.
