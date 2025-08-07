@@ -1,81 +1,85 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">¡Hola! 👋 Soy Elias Torres Espinoza</h1>
-  <h3 align="center">Estudiante de Ingeniería de Software apasionado por el Desarrollo Backend, Cloud y la tecnología Blockchain.</h3>
+<!-- Header animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,10&height=250&section=header&text=El%C3%ADas%20Torres%20Espinoza&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Cloud%20Developer&descAlignY=55&descAlign=center&descSize=20" />
+
+<!-- SVG con texto que se escribe solo -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%C2%A1Bienvenido+a+mi+espacio+digital!+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Apasionado+por+el+Backend%2C+Cloud+y+Blockchain;Construyendo+soluciones+escalables+con+Java+y+.NET" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- Badges de contacto y vistas -->
 <div align="center">
   <a href="https://www.linkedin.com/in/el%C3%ADas-torres-espinoza-44a5a726b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=EliasTorresEzpinoza&style=for-the-badge&color=00D4FF&label=VISITAS" alt="Profile Views"/>
 </div>
 
 ---
 
-### 👨‍💻 Acerca de mí
+## 🎯 Acerca de Mí
 
-Soy un estudiante del último ciclo de **Ingiería de Software** en la **UPC**, con un gran interés en construir soluciones tecnológicas que resuelvan problemas reales. Mi enfoque principal es el desarrollo **backend** y la arquitectura de **soluciones en la nube**, pero también disfruto trabajando en todo el stack tecnológico.
+Soy un estudiante del último ciclo de **Ingeniería de Software** en la **UPC**, enfocado en construir soluciones tecnológicas robustas que resuelvan problemas complejos. Mi principal pasión es el **desarrollo backend** y la **arquitectura de soluciones en la nube**, pero disfruto trabajando en todo el stack tecnológico para llevar las ideas a la realidad.
 
-- 🔭 Actualmente buscando mi primera oportunidad de **prácticas pre-profesionales**.
-- 🌱 Aprendiendo sobre arquitecturas de microservicios y patrones de diseño de software.
-- 📫 Contáctame en: **torreseliasesp@gmail.com**
+- 🔭 Actualmente buscando mi primera oportunidad de **prácticas pre-profesionales** para aplicar y expandir mis habilidades.
+- 🌱 Siempre aprendiendo sobre **arquitecturas de microservicios, patrones de diseño y DevOps**.
+- 📫 Contáctame: **torreseliasesp@gmail.com**
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+## 🚀 Mi Arsenal Tecnológico
 
 <div align="center">
-  <a href="https://www.java.com/es/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-original-wordmark.svg" alt="Spring" height="50" /></a>  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-  <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" alt="Flutter" height="50" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
+### **Backend & Bases de Datos**
+![Backend Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,mysql,postgres,mongodb)
+
+### **Frontend & Móvil**
+![Frontend Skills](https://skillicons.dev/icons?i=angular,react,html,css,js,ts,flutter)
+
+### **Cloud & DevOps**
+![DevOps Skills](https://skillicons.dev/icons?i=azure,docker,git,jenkins)
+
 </div>
 
 ---
 
-### 🚀 Mis Proyectos Destacados
+## 🏆 Proyectos Destacados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MoviGestion - Gestión de Flotas IoT</h3>
-      <div align="center">
-        <a href="https://github.com/upc-Soluciones-IOT-BicasTeam" target="_blank">
-          <img src="https://raw.githubusercontent.com/EliasTorresEzpinoza/Landing-Page-MoviGestion/main/assets/images/logo.png" width="100" alt="Logo MoviGestion">
-        </a>
-        <p>Plataforma integral (Web, Móvil, IoT) para la gestión y monitoreo en tiempo real de flotas de transporte. Lideré el desarrollo del sistema Edge/Embedded y contribuí en el backend, frontend y despliegue en Azure.</p>
-        <p><strong>Tecnologías: Java, Spring Boot, Angular, Flutter, Azure, IoT.</strong></p>
-        <a href="https://github.com/upc-Soluciones-IOT-BicasTeam" target="_blank"><strong>Ver Repositorio »</strong></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">BlockLearn - Trazabilidad con Blockchain</h3>
-      <div align="center">
-        <a href="https://github.com/upc-BlockLearn-Emergentes-BicasTeam" target="_blank">
-          <img src="https://raw.githubusercontent.com/upc-BlockLearn-Emergentes-BicasTeam/upc-blocklearn-appweb/main/src/assets/logo.png" width="100" alt="Logo BlockLearn">
-        </a>
-        <p>Sistema de gestión académica que utiliza Blockchain para garantizar la seguridad y trazabilidad de recursos educativos. Fui responsable del desarrollo end-to-end (backend, frontend y despliegue).</p>
-        <p><strong>Tecnologías: C#, ASP.NET, Angular, Blockchain, Azure, DDD.</strong></p>
-        <a href="https://github.com/upc-BlockLearn-Emergentes-BicasTeam" target="_blank"><strong>Ver Repositorio »</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🚀 Proyecto | 🛠️ Stack Tecnológico | 📝 Descripción | 🔗 Enlaces |
+|:---:|:---:|:---:|:---:|
+| **MoviGestion** | [![Skills](https://skillicons.dev/icons?i=java,spring,angular,flutter,azure,postgres,iot&perline=4)](https://skillicons.dev) | Plataforma integral para la gestión de flotas de transporte usando **IoT**. Lideré el desarrollo del sistema **Edge/Embedded** y participé activamente en el backend, frontend y despliegue en **Azure**. | [![Repo](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upc-Soluciones-IOT-BicasTeam/upc-iot-BicasTeam-report) [![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://upc-soluciones-iot-bicasteam.github.io/upc-AppWeb-BicasTeam-LandingPage.github.io/) |
+| **BlockLearn** | [![Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,azure,mysql,postman&perline=3)](https://skillicons.dev) | Sistema de gestión académica con trazabilidad **Blockchain**. Fui responsable del desarrollo **end-to-end**: backend con DDD, frontend SPA y despliegue completo en **Azure**. | [![Repo](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upc-BlockLearn-Emergentes-BicasTeam/upc-blocklearn-appweb) |
+
+</div>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EliasTorresEzpinoza&show_icons=true&hide_border=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasTorresEzpinoza&layout=compact&hide_border=true&theme=dracula" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EliasTorresEzpinoza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=79ff97&icon_color=79ff97&text_color=FFFFFF" alt="Estadísticas de Elias"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasTorresEzpinoza&theme=tokyonight&hide_border=true&background=0D1117&stroke=79ff97&ring=79ff97&fire=FF6B6B" alt="Racha de Contribuciones de Elias"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasTorresEzpinoza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ff97&text_color=FFFFFF&langs_count=8" alt="Lenguajes más usados por Elias"/>
+</div>
+
+---
+
+## 📈 Mi Actividad de Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EliasTorresEzpinoza/EliasTorresEzpinoza/main/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+</div>
+
+*Para generar esta animación, necesitarás seguir unos pasos adicionales descritos más abajo.*
+
+---
+
+<!-- Footer animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,10&height=200&section=footer&text=Abierto%20a%20Nuevos%20Desaf%C3%ADos&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" />
