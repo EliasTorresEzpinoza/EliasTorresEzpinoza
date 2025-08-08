@@ -1,7 +1,7 @@
 <!-- Header animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,10&height=250&section=header&text=Elias%20Torres%20Espinoza&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenieria%20de%20Software%20&descAlignY=55&descAlign=center&descSize=20" />
 
-<!-- SVG con texto que se escribe solo -->
+<!-- SVG-->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%C2%A1Bienvenido+a+mi+Portafolio!+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+en+la+UPC;Desarrollador+Web,+M%C3%B3vil+y+Backend+API;Construyendo+soluciones+con+IoT+y+despliegues+en+Azure" alt="Typing SVG" />
